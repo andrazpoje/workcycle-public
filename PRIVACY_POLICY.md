@@ -2,6 +2,8 @@
 
 Last updated: May 21, 2026
 
+This Privacy Policy applies to the Android app **Delovni cikel**, also known as **WorkCycle**, package name **com.dante.abworkdaywidget**, published on Google Play by **Dante produkcija**.
+
 WorkCycle is designed so most app data stays on your device. Team Sync is optional. If you do not create or join a team, you can use the app locally without Team Sync.
 
 ## Local data stored on your device
@@ -69,6 +71,11 @@ For details, see [DATA_DELETION.md](DATA_DELETION.md).
 
 ## Contact
 
-If you have questions about this privacy policy or WorkCycle data handling, contact the developer:
+For privacy questions or data deletion requests, contact:
 
-danteprodukcija@gmail.com
+**Dante produkcija**  
+App: **Delovni cikel / WorkCycle**  
+Package name: **com.dante.abworkdaywidget**  
+Email: danteprodukcija@gmail.com
+
+
