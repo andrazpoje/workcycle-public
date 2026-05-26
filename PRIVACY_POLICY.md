@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: May 21, 2026
+Last updated: May 26, 2026
 
 This Privacy Policy applies to the Android app **Delovni cikel**, also known as **WorkCycle**, package name **com.dante.abworkdaywidget**, published on Google Play by **Dante produkcija**.
 
@@ -36,8 +36,9 @@ Team Sync may store and sync data such as:
 - team member display names, roles and statuses
 - Team codes used for joining a team
 - Team pickup details, assignments, completion and history data
+- Team pickup comments or coordination notes shared with active team members
 
-Team pickups are shared with the active team so team members can coordinate work. Local Work Log data, local schedules, Local pickups, Travel Orders and vehicles are not automatically shared with Team Sync.
+Team pickups and Team pickup comments are shared with the active team so team members can coordinate work. Comments should be used for short coordination notes, and users should avoid entering sensitive personal data unless it is needed for the pickup. Deleted comments may remain as deleted placeholders so the team conversation stays understandable. Local Work Log data, local schedules, Local pickups, Travel Orders and vehicles are not automatically shared with Team Sync.
 
 ## Sign-in and account linking
 

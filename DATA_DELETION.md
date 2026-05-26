@@ -28,6 +28,7 @@ When the data can be identified, the developer can delete or remove:
 - Firebase Auth account / Team Sync identity
 - Team membership data
 - Team Pickup data created by the user, where identifiable and technically possible
+- Team Pickup comment text and author references, where identifiable and technically possible
 - FCM notification token linked to the team or user
 - other cloud data linked to Team Sync
 
@@ -47,7 +48,7 @@ Local-only data is not stored by the developer. You can delete local-only data b
 
 Some data may be retained when required for security, abuse prevention, debugging, legal compliance, or shared team history consistency.
 
-Some team records may remain if they are needed to preserve shared team history. Where possible, personal identifiers will be removed or minimized.
+Some team records may remain if they are needed to preserve shared team history. Team Pickup comments may be soft-deleted, anonymized, or retained as deleted placeholders depending on the request and team context. Where possible, personal identifiers will be removed or minimized.
 
 Anonymized or non-identifiable records may be retained when they can no longer be linked to a specific user.
 
